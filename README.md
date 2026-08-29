@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖼️ ViT-Incremental-Learning
+# Vision Transformer 增量学习 | ViT-Incremental-Learning
 
 ### Vision Transformer incremental learning.
 
